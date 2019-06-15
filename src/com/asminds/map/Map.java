@@ -10,10 +10,6 @@ class Map1 {
 	map.put(21, "pavi");
 	map.put(3, "savi");
 	Set set=map.entrySet();	
-	
-	
-	
-	
 		
 		
 	}
